@@ -96,7 +96,7 @@ img {
     grid-template-rows: 1fr;
     grid-gap: 10px;
 }
-.featured-article-text {
+/* .featured-article-text {
     grid-column: span 1;
 }
 .featured-article-img {
@@ -119,4 +119,4 @@ main > photo:nth(6) {
 }
 main > photo:nth(7) {
     grid-column: span 1;
-}
+} */
